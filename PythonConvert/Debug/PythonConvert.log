@@ -1,0 +1,29 @@
+﻿  tests.cpp
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\helpers.cpp(229): warning C4101: 'color': unreferenced local variable
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\debugging_helpers.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\debugging_helpers.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\debugging_helpers.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\debugging_helpers.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\localizer.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(228): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kim\udacity\introselfdrivingcars\c++\pythonconvert\tests.cpp(229): warning C4305: '=': truncation from 'double' to 'float'
+  PythonConvert.vcxproj -> C:\Users\Kim\Udacity\IntroSelfDrivingCars\C++\PythonConvert\Debug\PythonConvert.exe
